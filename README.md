@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kanav Pradhan</h1>
 <h3 align="center">A Passionate Computer Science From India</h3>
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanavpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="kanavpradhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanavpradhan" alt="kanavpradhan" /></a> </p>
