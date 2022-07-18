@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kanav Pradhan</h1>
-<h3 align="center">A Passionate Computer Science From India</h3>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Kanav Pradhan</h1>
+<h3 align="center">A Passionate Computer Science Student From India</h3>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
