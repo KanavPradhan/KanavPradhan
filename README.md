@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanavpradhan" alt="kanavpradhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nahdarpvanak" target="blank"><img src="https://img.shields.io/twitter/follow/nahdarpvanak?logo=twitter&style=for-the-badge" alt="nahdarpvanak" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kxnxvvvvv" target="blank"><img src="https://img.shields.io/twitter/follow/nahdarpvanak?logo=twitter&style=for-the-badge" alt="kxnxvvvvv" /></a> </p>
 
 - 📫 How to reach me **21052504@kiit.ac.in**
 
